@@ -34,7 +34,6 @@ setup(
     packages=find_packages(exclude=[]),
     license='MIT',
     description='Various algorithms for the problem of mapping a virtual network onto the substrate network or onto a cloud network.',
-    long_description=read('README.md'),
     classifiers=[
         "Programming Language :: Python",
         'Programming Language :: Python :: 3.6',
